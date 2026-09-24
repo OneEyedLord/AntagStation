@@ -1,7 +1,7 @@
-﻿- type: species
+- type: species
   id: Thaven
   name: species-name-thaven
-  roundStart: true
+  roundStart: false # Antagstation, pending rework
   prototype: MobThaven
   sprites: MobThavenSprites
   defaultSkinTone: "#ffffff"
