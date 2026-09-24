@@ -3,7 +3,7 @@
 - type: species
   id: Reptilian
   name: species-name-reptilian
-  roundStart: true
+  roundStart: false # Antagstation, pending rework
   prototype: MobReptilian
   sprites: MobReptilianSprites
   defaultSkinTone: "#34a223"

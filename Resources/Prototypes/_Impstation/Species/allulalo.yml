@@ -1,7 +1,7 @@
 - type: species
   id: Allulalo
   name: species-name-allulalo
-  roundStart: true
+  roundStart: false # Antagstation, pending rework
   #randomViable: true
   prototype: MobAllulalo
   sprites: MobAllulaloSprites
