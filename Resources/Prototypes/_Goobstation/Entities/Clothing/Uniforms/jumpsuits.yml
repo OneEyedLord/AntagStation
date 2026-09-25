@@ -89,7 +89,7 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitCasualCentcom
-  name: casual centcomm jumpsuit # Omu
+  name: casual centcom jumpsuit
   description: Paperwork's tough.
   components:
   - type: Sprite
@@ -484,7 +484,7 @@
 - type: entity
   parent: [ ClothingUniformBase, BaseCentcommContraband ]
   id: ClothingUniformJumpsuitGoldenLiaison
-  name: Golden Liaison CentComm Jumpsuit # Omu
+  name: Golden Liaison CentCom Jumpsuit
   description: A finely-tailored white-and-gold uniform worn by senior officials of Central Command.
   components:
   - type: Sprite

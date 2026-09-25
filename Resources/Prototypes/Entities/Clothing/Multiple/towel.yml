@@ -703,7 +703,7 @@
 
 - type: entity
   id: TowelColorCentcom
-  name: centcomm towel # Omu
+  name: centcom towel
   parent: BaseTowel
   components:
   - type: Sprite

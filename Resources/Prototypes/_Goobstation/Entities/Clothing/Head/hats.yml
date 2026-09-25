@@ -450,7 +450,7 @@
 - type: entity
   parent: ClothingHeadHatCentcomcap
   id: ClothingHeadHatGoldCentcom
-  name: golden CentComm cap # Omu
+  name: golden Centcom cap
   description: A gold-and-white gilded cap worn by the highest-ranking members of Central Command.
   components:
   - type: Sprite
@@ -463,7 +463,7 @@
 - type: entity
   parent: ClothingHeadHatCentcomcap
   id: ClothingHeadHatCowboyCentcom
-  name: centcomm cowboy hat # Omu
+  name: centcom cowboy hat
   description: A black and green cowboy hat with a gold band, worn by 'southerner' Central Command officers.
   components:
   - type: Sprite
