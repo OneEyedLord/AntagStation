@@ -3,7 +3,7 @@
 - type: species
   id: SlimePerson
   name: species-name-slime
-  roundStart: true
+  roundStart: false # Antagstation, pending rework.
   prototype: MobSlimePerson
   sprites: MobSlimeSprites
   defaultSkinTone: "#b8b8b8"

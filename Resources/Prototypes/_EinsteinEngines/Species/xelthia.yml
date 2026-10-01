@@ -1,7 +1,7 @@
 - type: species
   id: Xelthia
   name: species-name-xelthia
-  roundStart: true
+  roundStart: false # Antagstation, pending rework
   prototype: MobXelthia
   sprites: MobXelthiaSprites
   defaultSkinTone: "#56a2de"
